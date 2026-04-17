@@ -1,0 +1,24 @@
+# --- build / runtime artefacts ---
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# --- temporary screenshots from playwright dev captures ---
+scene1.jpg
+scene2.jpg
+scene3.jpg
+scene3-*.jpg
+scene4.jpg
+scene5.jpg
+scene6.jpg
+.playwright-mcp/
+
+# --- claude-code runtime ---
+.remember/
+
+# --- local env files ---
+.env
+.env.local

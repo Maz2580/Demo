@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "src": "Above-Ground-Unit-2048x1365.jpg",
+    "w": 2048,
+    "h": 1365
+  },
+  "scene4-1": {
+    "src": "1.THUMBNAIL-1-5.png",
+    "w": 1200,
+    "h": 583
+  },
+  "scene4-2": {
+    "src": "1.THUMBNAIL-1-6.png",
+    "w": 1200,
+    "h": 583
+  },
+  "scene4-3": {
+    "src": "1.THUMBNAIL-1-7.png",
+    "w": 1200,
+    "h": 583
+  },
+  "detail": {
+    "src": "1.THUMBNAIL-1-8.png",
+    "w": 1200,
+    "h": 583
+  }
+}
