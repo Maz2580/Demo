@@ -4,15 +4,25 @@
 
 ## 1 · What this project is
 
-A 30-second cinematic product trailer for **Australian Turntables**
-([turntables.com.au](https://www.turntables.com.au) · `@australianturntables`).
-Destination is Instagram Reels; the final deliverable will be rendered by
-screen-recording `trailer.html` in Chrome at **1080×1920**, then importing the
-capture into CapCut for music + captions.
+A ~34-second cinematic product trailer for **TUBE TECH**
+([tubetech.com.au](https://www.tubetech.com.au) · LinkedIn
+[tube-tech-co](https://www.linkedin.com/company/tube-tech-co/)) — product
+line is the **TurnTech Car Turntable**. Destination is Instagram Reels;
+deliverable is rendered deterministically via `python render_mp4.py`
+(Playwright + ffmpeg) to native 1080×1920 H.264.
 
-- Client was featured on *The Block* 2023.
+> **Historical note:** earlier versions of this file said the client was
+> "Australian Turntables" (turntables.com.au). That was wrong — Australian
+> Turntables was a *competitor* shown as a creative-reference example. The
+> actual client has always been TUBE TECH. The trailer was corrected and
+> re-rendered on 2026-04-19.
+
+- Client is TUBE TECH, Campbellfield, Melbourne VIC. Contact slots in the
+  trailer use phone `(03) 9357 7774`, email `sales@tubetech.com.au`, and the
+  website — there is no public Instagram handle (LinkedIn only).
 - The product rotates — rotation is the creative spine of every transition.
-- 6 scenes over 30s: wordmark → hero reveal → schematic → gallery → statement → logo lockup.
+- 9 scenes over ~34s: aerial → wordmark → hero video → mechanism → drive-out
+  video → gallery → statement → lockup → twilight payoff.
 - Accent colour is warm gold `#C9A961` (see lever below).
 
 ## 2 · Current status
