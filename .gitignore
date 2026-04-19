@@ -22,3 +22,12 @@ scene6.jpg
 # --- local env files ---
 .env
 .env.local
+
+frames/
+
+# --- generated video exports / review artefacts ---
+*.mp4
+verify/
+v1/
+assets/refs/
+MP4_EXPORT_VIDEO_FREEZE_REVIEW.md
